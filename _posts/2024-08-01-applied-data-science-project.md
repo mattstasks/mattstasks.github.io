@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Name
-title: "Applied Data Science Project Documentation"
+title: "AppliedTETSETSETEST
 categories: ITD214
 ---
 ## Project Background
