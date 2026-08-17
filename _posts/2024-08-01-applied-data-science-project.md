@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Name
-title: "AppliedTETSETSETEST
+title: "AppliedTETSETSETEST"
 categories: ITD214
 ---
 ## Project Background
