@@ -1,12 +1,12 @@
 title: Data Science Project Showcase
-author: Lim Ting Wei Tan Yan Ling Michelle Matthew Andrew Lim
+author:
   name: Lim Ting Wei Tan Yan Ling Michelle Matthew Andrew Lim
   email: 4151759P@myaccount.nyp.edu.sg
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-Project Showcase for ITD224 - Applied Data Science Project.
+  Project Showcase for ITD224 - Applied Data Science Project.
 
 # Build settings
 
