@@ -15,9 +15,18 @@ The team explored three complementary business objectives:
 
 ## Work Accomplished/Data Preparation/Modelling/Evaluation/Recommendation and Analysis/AI Ethics
 Please see each readme file for each team member.
+
 Lim Ting Wei - https://github.com/mattstasks/mattstasks.github.io/tree/master/Recommendation_System_Lim_Ting_Wei
+
 Tan Yan Ling Michelle - https://github.com/mattstasks/mattstasks.github.io/tree/master/ROI_Predictor_Michelle_Tan
-Matthew Andrew Lim - https://github.com/mattstasks/mattstasks.github.io/blob/master/Classic_Predictor_Matthew_Lim/Readme.md
+
+Matthew Andrew Lim - https://github.com/mattstasks/mattstasks.github.io/blob/master/Classic_Predictor_Matthew_Lim
 
 ## Source Codes and Datasets
 Group Repo - https://mattstasks.github.io/
+global_movies_dataset_1950_2026.csv - https://www.kaggle.com/datasets/suhanigupta04/global-movies-dataset-19502026 
+movies_info.csv - https://www.kaggle.com/datasets/rushildhingra25/movies-info?select=movies_info.csv 
+data_movies_clean.xlsx - https://www.kaggle.com/datasets/mustafasayed1181/movies-metadata-cleaned-dataset-19002025
+classic_movies.csv - https://www.kaggle.com/datasets/thebumpkin/ultimate-classic-movies-1960-2009-with-tmdb-data?resource=download
+
+
