@@ -1,3 +1,13 @@
+---
+layout: post
+author: Michelle Tan
+title: "ROI Predictor - Michelle"
+categories: ITD224
+---
+
+This file is a copy of Michelle's Readme, in post form. 
+
+
 # U.S. Movie ROI Proxy Prediction For Content Decision-Making
 
 * **Student Name:** Tan Yan Ling Michelle
