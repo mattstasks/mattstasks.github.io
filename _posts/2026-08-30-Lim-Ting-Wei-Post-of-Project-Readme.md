@@ -1,6 +1,15 @@
+---
+layout: post
+author: Ting Wei
+title: "Recommendation System - Ting Wei"
+categories: ITD224
+---
+
+
 # ITD224-Recommendation-system
 ITD224 Recommendation system
 ---
+This file is a copy of Ting Wei's Readme, in post form. 
 
 # Movie Recommendation System
 
