@@ -1,3 +1,13 @@
+---
+layout: post
+author: Matthew Lim
+title: "Classic Predictor - Matthew"
+categories: ITD224
+---
+
+This file is a copy of Matthew's Readme, in post form. 
+
+
 # Classic Movie Identification for Content Discovery 
 
 * **Student Name:** Matthew Andrew Lim
