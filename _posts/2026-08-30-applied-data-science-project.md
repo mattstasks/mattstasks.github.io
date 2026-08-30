@@ -15,15 +15,9 @@ The team explored three complementary business objectives:
 
 ## Work Accomplished/Data Preparation/Modelling/Evaluation/Recommendation and Analysis/AI Ethics
 Please see each readme file for each team member.
-Lim Ting Wei - 
-Tan Yan Ling Michelle - 
+Lim Ting Wei - https://github.com/mattstasks/mattstasks.github.io/tree/master/Recommendation_System_Lim_Ting_Wei
+Tan Yan Ling Michelle - https://github.com/mattstasks/mattstasks.github.io/tree/master/ROI_Predictor_Michelle_Tan
 Matthew Andrew Lim - https://github.com/mattstasks/mattstasks.github.io/blob/master/Classic_Predictor_Matthew_Lim/Readme.md
 
-
-## AI Ethics
-Discuss the potential data science ethics issues (privacy, fairness, accuracy, accountability, transparency) in your project. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
 ## Source Codes and Datasets
-Upload your model files and dataset into a GitHub repo and add the link here. 
+Group Repo - https://mattstasks.github.io/
